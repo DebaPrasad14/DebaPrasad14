@@ -35,10 +35,12 @@ Here are some ideas to get you started:
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/><br/>
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DebaPrasad14's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DebaPrasad14&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
   &nbsp;
-	  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DebaPrasad14&theme=algolia&hide_border=true" />
+  </p>
+  <p align="center">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DebaPrasad14&theme=algolia&hide_border=true" />
   <br/>
   
   </p>
